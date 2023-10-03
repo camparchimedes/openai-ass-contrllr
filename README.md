@@ -4,6 +4,8 @@
 Project to create chatbots with custom responses based on a jsonl file using OPENAI API and LANGCHAIN
 
 
+![Logo](bender.png)
+
 
 ## Deployment
 
