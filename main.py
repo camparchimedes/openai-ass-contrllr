@@ -4,7 +4,7 @@ from bender.controller.chatbot_controller import ChatbotController
 
 
 def main():
-    query = "mi pregunta"
+    query = "xxxxxxxxxxxxxx"
 
     jsonl_path = 'company_data.jsonl'
 
